@@ -14,7 +14,6 @@ It introduces the concept of *"Time as Currency"* — a digital asset where valu
 
 ## 📄 Key Documents
 - **[Whitepaper (EN)](whitepaper.pdf)** – complete project documentation
-- **[Website Source Code](index.html)** – main entry point
 
 ## 🚀 Presale
 - **Price:** 1 ZUZ = 0.0001 ETH
